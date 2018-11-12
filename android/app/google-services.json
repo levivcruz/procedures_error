@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1039061144656",
+    "firebase_url": "https://procedures-hubbi.firebaseio.com",
+    "project_id": "procedures-hubbi",
+    "storage_bucket": "procedures-hubbi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039061144656:android:613ea69a5af44c85",
+        "android_client_info": {
+          "package_name": "com.example.procedureshubbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039061144656-5it9cnb46j6dul86t34u6spru9p30hej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADf2BjSVx5o66pZATBovvfX20ptNytIK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
